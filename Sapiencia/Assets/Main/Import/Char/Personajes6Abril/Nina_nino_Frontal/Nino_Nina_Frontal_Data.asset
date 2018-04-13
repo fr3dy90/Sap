@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: Nino_Nina_Frontal_Data
+  m_EditorClassIdentifier: 
+  dataName: Nino_Nina_Frontal
+  dragonBonesJSON: {fileID: 4900000, guid: f2b68f63431d36c46932e281f43fd19e, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 9a96e7b0c8b1d4241891acb61369c063, type: 3}
+    texture: {fileID: 2800000, guid: 7c5501cf09e3ad54ebfa565f802f3529, type: 3}
+    material: {fileID: 2100000, guid: 261ffd18685d2894089ffde586b1f114, type: 2}
+    uiMaterial: {fileID: 0}
