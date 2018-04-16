@@ -172,6 +172,10 @@ public class ManagerTiles : MonoBehaviour {
                                     offsetH = 7;
                                     sr.sprite = sprites[0];
                                     break;
+                                case 28:
+                                    offsetH = 5;
+                                    sr.sprite = sprites[0];
+                                    break;
                             }
                         }
                     }
